@@ -2,6 +2,8 @@
 
 A quiet night pond for anxious minds — a calming browser game with no timers, no scores to beat and no way to lose.
 
+### ▶ Play it live: **[hushpond.vercel.app](https://hushpond.vercel.app/)**
+
 Meet **Lumi**, a little glowing pond spirit who breathes with you, gathers fireflies, and carries your worries up to the stars.
 
 ## Modes
@@ -23,4 +25,6 @@ All audio is generated live with the Web Audio API — a warm ambient pad, soft 
 
 ## Run it
 
-It's a single self-contained file. Open `index.html` in any modern browser, or enable **GitHub Pages** (Settings → Pages → deploy from `main`) to get a shareable link.
+Live at **https://hushpond.vercel.app/**
+
+It's a single self-contained file, so you can also just open `index.html` in any modern browser.
